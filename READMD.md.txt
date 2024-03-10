@@ -1,0 +1,20 @@
+## Online Recipe Organizer User Manual
+
+### Adding a Recipe:
+1. Click on the "Add Recipe" button.
+2. Fill in the recipe details in the form.
+3. Click "Save Recipe" to add the recipe to your collection.
+
+### Editing a Recipe:
+1. Navigate to the recipe you want to edit.
+2. Click on the "Edit" button.
+3. Modify the recipe details in the form.
+4. Click "Save" to update the recipe.
+
+### Deleting a Recipe:
+1. Navigate to the recipe you want to delete.
+2. Click on the "Delete" button.
+3. Confirm the deletion when prompted.
+
+### Credits
+Developed by Armando Cedano
